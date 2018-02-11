@@ -1,0 +1,1 @@
+C:\Users\yusuf\Desktop\contoso-c08-master-20180211T044742Z-001\contoso-c08-master\ContosoUniversity.Tests\obj\Release\ContosoUniversity.Tests.csprojResolveAssemblyReference.cache
